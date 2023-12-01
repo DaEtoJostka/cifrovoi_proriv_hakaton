@@ -245,5 +245,3 @@ history = model.fit(
     epochs=30,
     batch_size=32,
     callbacks=[model_checkpoint_callback])
-
-np.random.randint(1, 8)
