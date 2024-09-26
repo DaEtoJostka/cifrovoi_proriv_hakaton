@@ -28,7 +28,7 @@ Data Scientist в компании VR GO
 ML-разработчик
 Разрабатываю модели, проверяю гипотезы
 Студент 3 курса ИПМКН ТГУ
-ML CV engineer в IndorSoft
+Data Scientist в IndorSoft
 
 #### *[Соколов Владислав](https://github.com/RatumExLibris)*
 ML-разработчик
